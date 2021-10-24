@@ -1,0 +1,5 @@
+﻿  8labaksis.cpp
+E:\Education\Ксис виртуалка 3 сем\8labaksis\8labaksis.cpp(177,34): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+E:\Education\Ксис виртуалка 3 сем\8labaksis\8labaksis.cpp(202,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Education\Ксис виртуалка 3 сем\8labaksis\8labaksis.cpp(275,13): warning C4101: a: неиспользованная локальная переменная
+  8labaksis.vcxproj -> E:\Education\Ксис виртуалка 3 сем\8labaksis\Debug\8labaksis.exe
